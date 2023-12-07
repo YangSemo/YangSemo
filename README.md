@@ -1,9 +1,9 @@
 ### Hi all 👋
 
 <b>**Introduction**</b><br>
-<a href="https://www.linkedin.com/in/semoyang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=for-the-badge&logo=linkedin"/> </a> &nbsp;
-<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=for-the-badge&logo=linkedin"/> </a> &nbsp;
-<a href="https://sites.google.com/view/keylee/" target="_blank"><img src="https://img.shields.io/badge/Website-CCL-lightgrey?style=for-the-badge"/> </a>
+<a href="https://www.linkedin.com/in/semoyang/"><img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
+<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
+<a href="https://sites.google.com/view/keylee/"><img src="https://img.shields.io/badge/Website-CCL-lightgrey?style=plastic"/> </a>
 <br>
 
 🌟 Hello! I'm SeMo Yang, a passionate IT professional specializing in cutting-edge cloud solutions and open-source distribution operations. As a graduate student at Gachon University, I've honed my skills in federated learning and collaborated with top-tier global enterprises to drive innovative projects.
@@ -21,8 +21,8 @@
 <br>
 
 <b>**Contribute**</b><br>
-<a href="https://github.com/adap/flower" target="_blank"> <img src="https://img.shields.io/badge/flower-ECD53F?style=for-the-badge&logo=github"/> </a> &nbsp;
-<a href="https://github.com/gachon-CCLab/FedOps" target="_blank"> <img src="https://img.shields.io/badge/FedOps-004088?style=for-the-badge&logo=github"/> </a> <br>
+<a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> &nbsp;
+<a href="https://github.com/gachon-CCLab/FedOps""> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangSemo&show_icons=true&theme=radical)
