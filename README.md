@@ -22,8 +22,13 @@
 <br>
 
 ## Contribute
-<a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a>
-<a href="https://github.com/gachon-CCLab/FedOps"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
+
+💪 I'm proud to be a contributor to the open source community, particularly in projects that are pushing the boundaries of technology and collaboration. Here are some of the projects I've contributed to:
+
+- **[Flower](https://github.com/adap/flower)**
+- **[FedOps](https://github.com/gachon-CCLab/FedOps)**
+
+
 
 ## Global Conference
 👐 At the prestigious Flower Summit 2023 conference hosted by the University of Cambridge(Flower Labs), I had the privilege of presenting in the Industry session on "FedOps: Federated Learning Lifecycle Operations Management." This event was a significant gathering of global industry giants, including Brave, Intel, ThoughtWorks, and KATULU, marking a collaborative effort to advance federated learning technologies. You can explore more about this session and my contribution
