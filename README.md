@@ -29,7 +29,7 @@
 👐 At the prestigious Flower Summit 2023 conference hosted by the University of Cambridge(Flower Labs), I had the privilege of presenting in the Industry session on "FedOps: Federated Learning Lifecycle Operations Management." This event was a significant gathering of global industry giants, including Brave, Intel, ThoughtWorks, and KATULU, marking a collaborative effort to advance federated learning technologies. You can explore more about this session and my contribution
 
 <a href="https://youtu.be/9Ns0q4zHfLk">
-  <img src="https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg" width="450" height="300"/>
+  <img src="https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg" width="450" height="250"/>
 </a>
 
 
