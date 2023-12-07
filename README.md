@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>Contributor</b>
+<b>Contribute</b><br>
 <a href="https://github.com/adap/flower" target="_blank"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> 
 <a href="https://github.com/gachon-CCLab/FedOps" target="_blank"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> 
 
