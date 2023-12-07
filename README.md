@@ -1,6 +1,6 @@
-## Hi all 👋
+# Hi all 👋
 
-### Introduction
+## Introduction
 <a href="https://www.linkedin.com/in/semoyang/"><img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a>
 <a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a>
 <a href="https://sites.google.com/view/keylee/"><img src="https://img.shields.io/badge/Website-CCL-lightgrey?style=plastic"/> </a>
@@ -21,18 +21,18 @@
 🚀 I'm enthusiastic about exploring new challenges in cloud environments, particularly Kubernetes and Docker, and advancing federated learning through open-source platforms and operational strategies. Let's connect and discuss how we can drive innovation together!
 <br>
 
-### Contribute
+## Contribute
 <a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a>
 <a href="https://github.com/gachon-CCLab/FedOps"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
 
-### Global Conference
+## Global Conference
 👐 At the prestigious Flower Summit 2023 conference hosted by the University of Cambridge(Flower Labs), I had the privilege of presenting in the Industry session on "FedOps: Federated Learning Lifecycle Operations Management." This event was a significant gathering of global industry giants, including Brave, Intel, ThoughtWorks, and KATULU, marking a collaborative effort to advance federated learning technologies. You can explore more about this session and my contribution
 
 <a href="https://youtu.be/9Ns0q4zHfLk">
   <img src="https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg" width="450" height="250"/>
 </a>
 
-
+## Contact Me
 <Strong>📧Email📧</Strong><br>tpah20@gmail.com<br>
 
 
