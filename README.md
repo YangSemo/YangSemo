@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<div align="center">
-  Contributor <br>
-  <a href="https://github.com/adap/flower" target="_blank"><img src="https://img.shields.io/badge/flower-#ECD53F?style=plastic"/></a>
-  <a href="https://github.com/gachon-CCLab/FedOps" target="_blank"><img src="https://img.shields.io/badge/FedOps-#004088?style=plastic"/></a>
+<div align="center"> 
+  <b>Contributor</b><br>
+  <a href="https://github.com/adap/flower" target="_blank"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> 
+  <a href="https://github.com/gachon-CCLab/FedOps" target="_blank"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> 
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangSemo&show_icons=true&theme=radical)
