@@ -16,12 +16,12 @@
 🚀 I'm enthusiastic about exploring new challenges in cloud environments, particularly Kubernetes and Docker, and advancing federated learning through open-source platforms and operational strategies. Let's connect and discuss how we can drive innovation together!
 <br>
 
-<a href="https://www.linkedin.com/in/semoyang/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a> 
-<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a> 
+<a href="https://www.linkedin.com/in/semoyang/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
+<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
 <a href="https://sites.google.com/view/keylee/" target="_blank"> <img src="https://img.shields.io/badge/Website-CCL-lightgrey?style=plastic"/> </a>
 
 <b>**Contribute**</b><br>
-<a href="https://github.com/adap/flower" target="_blank"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> 
+<a href="https://github.com/adap/flower" target="_blank"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> &nbsp;
 <a href="https://github.com/gachon-CCLab/FedOps" target="_blank"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
 
 
