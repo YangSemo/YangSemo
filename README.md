@@ -17,6 +17,7 @@
 🔍 Additionally, I've been deeply involved in projects like demand shifting services based on electric energy usage prediction models and early risk detection algorithms using AI-based behavior recognition. These projects have not only sharpened my technical skills but also allowed me to contribute significantly to energy management and healthcare sectors.
 
 🌏 A highlight of my career has been collaborating with global companies like Flower Labs. Our partnership focused on designing and refining the FedOps platform - a testament to my commitment to global standards and practices in federated learning lifecycle management.
+[![Watch the video](https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg)](https://youtu.be/9Ns0q4zHfLk)
 
 🚀 I'm enthusiastic about exploring new challenges in cloud environments, particularly Kubernetes and Docker, and advancing federated learning through open-source platforms and operational strategies. Let's connect and discuss how we can drive innovation together!
 <br>
