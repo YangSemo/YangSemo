@@ -1,8 +1,8 @@
-### Hi all 👋
+## Hi all 👋
 
 ### Introduction
-<a href="https://www.linkedin.com/in/semoyang/"><img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
-<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a> &nbsp;
+<a href="https://www.linkedin.com/in/semoyang/"><img src="https://img.shields.io/badge/LinkedIn-SeMo Yang-blue?style=plastic&logo=linkedin"/> </a>
+<a href="https://www.linkedin.com/company/cognitive-computing-lab/mycompany/?viewAsMember=true"><img src="https://img.shields.io/badge/LinkedIn-CCL-blue?style=plastic&logo=linkedin"/> </a>
 <a href="https://sites.google.com/view/keylee/"><img src="https://img.shields.io/badge/Website-CCL-lightgrey?style=plastic"/> </a>
 <br>
 
@@ -22,7 +22,7 @@
 <br>
 
 ### Contribute
-<a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a> &nbsp;
+<a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a>
 <a href="https://github.com/gachon-CCLab/FedOps"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangSemo&show_icons=true&theme=radical)
