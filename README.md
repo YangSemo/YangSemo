@@ -17,7 +17,6 @@
 🔍 Additionally, I've been deeply involved in projects like demand shifting services based on electric energy usage prediction models and early risk detection algorithms using AI-based behavior recognition. These projects have not only sharpened my technical skills but also allowed me to contribute significantly to energy management and healthcare sectors.
 
 🌏 A highlight of my career has been collaborating with global companies like Flower Labs. Our partnership focused on designing and refining the FedOps platform - a testament to my commitment to global standards and practices in federated learning lifecycle management.
-[![Watch the video](https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg)](https://youtu.be/9Ns0q4zHfLk)
 
 🚀 I'm enthusiastic about exploring new challenges in cloud environments, particularly Kubernetes and Docker, and advancing federated learning through open-source platforms and operational strategies. Let's connect and discuss how we can drive innovation together!
 <br>
@@ -25,6 +24,14 @@
 ### Contribute
 <a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a>
 <a href="https://github.com/gachon-CCLab/FedOps"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
+
+### Global Conference
+👐 At the prestigious Flower Summit 2023 conference hosted by the University of Cambridge(Flower Labs), I had the privilege of presenting in the Industry session on "FedOps: Federated Learning Lifecycle Operations Management." This event was a significant gathering of global industry giants, including Brave, Intel, ThoughtWorks, and KATULU, marking a collaborative effort to advance federated learning technologies. You can explore more about this session and my contribution
+
+<a href="https://youtu.be/9Ns0q4zHfLk">
+  <img src="https://img.youtube.com/vi/9Ns0q4zHfLk/maxresdefault.jpg" width="250"/>
+</a>
+
 
 <Strong>📧Email📧</Strong><br>tpah20@gmail.com<br>
 
