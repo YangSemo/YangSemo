@@ -25,6 +25,9 @@
 <a href="https://github.com/adap/flower"> <img src="https://img.shields.io/badge/flower-ECD53F?style=plastic&logo=github"/> </a>
 <a href="https://github.com/gachon-CCLab/FedOps"> <img src="https://img.shields.io/badge/FedOps-004088?style=plastic&logo=github"/> </a> <br>
 
+<Strong>📧Email📧</Strong><br>tpah20@gmail.com<br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangSemo&show_icons=true&theme=radical)
 
 <!--
